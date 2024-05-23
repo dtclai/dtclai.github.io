@@ -2,7 +2,7 @@
 
 *Working on AI approaches to improve data clustering and applying data science to multidisciplinary research*
 
-Daphne Teck Ching Lai, PhD
+Daphne Teck Ching Lai, PhD <br>
 
 Senior Assistant Professor
 
