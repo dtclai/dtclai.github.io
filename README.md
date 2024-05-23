@@ -5,19 +5,13 @@ Senior Assistant Professor<br>
 School of Digital Science<br>
 
 Universiti Brunei Darussalam<br>
-
+<br>
+<br>
 
 *Working on AI approaches to improve data clustering and applying data science to multidisciplinary research*
 
-
-<br>
-
-
-
-
 <br>
 <br>
-
 
 **Research Areas**
 
