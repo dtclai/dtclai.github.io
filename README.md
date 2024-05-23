@@ -2,6 +2,7 @@
 
 *Working on AI approaches to improve data clustering and applying data science to multidisciplinary research*
 
+
 Daphne Teck Ching Lai, PhD <br>
 
 Senior Assistant Professor
@@ -9,6 +10,8 @@ Senior Assistant Professor
 School of Digital Science
 
 Universiti Brunei Darussalam
+
+
 
 **Research Areas**
 
