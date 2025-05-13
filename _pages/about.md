@@ -26,10 +26,12 @@ News
 <li><b>[3 April 2025, Paper Published]</b>: Oluwakemisola Onifade's paper "<a href="https://www.mdpi.com/2073-4441/17/7/1069">Impact of Seasonal Variation and Population Growth on Coliform Bacteria Concentrations in the Brunei River: A Temporal Analysis with Future Projection</a>" has been published in <i><a href="https://www.mdpi.com/journal/water">Water</a></i></li>
 <br /> 
 <li><b>[3 April 2025, Paper Published]</b>: Oluwakemisola Onifade's paper "<a href="https://www.mdpi.com/2073-4441/17/7/1069">Impact of Seasonal Variation and Population Growth on Coliform Bacteria Concentrations in the Brunei River: A Temporal Analysis with Future Projection</a>" has been published in <i><a href="https://www.mdpi.com/journal/water">Water</a></i></li>  
-<br /> 
-<li><b>[3 April 2025, Paper Published]</b>: Oluwakemisola Onifade's paper "<a href="https://www.sciencedirect.com/science/article/pii/S0263224125007420">Modeling the complex spatio-temporal dynamics of ocean wave parameters: A hybrid PINN-LSTM approach for accurate wave forecasting</a>" has been published in <i><a href="https://www.sciencedirect.com/journal/measurement">Measurement</a></i></li>
+
+  
 <br /> 
 <li><b>[3 April 2025, Paper Published]</b>: Oluwakemisola Onifade's paper "<a href="https://www.mdpi.com/2073-4441/17/7/1069">Impact of Seasonal Variation and Population Growth on Coliform Bacteria Concentrations in the Brunei River: A Temporal Analysis with Future Projection</a>" has been published in <i><a href="https://www.mdpi.com/journal/water">Water</a></i></li>
+<br /> 
+<li><b>[26 March 2025, Paper Published]</b>: Zaharaddeen Karami Lawal's paper "<a href="https://www.sciencedirect.com/science/article/pii/S0263224125007420">Modeling the complex spatio-temporal dynamics of ocean wave parameters: A hybrid PINN-LSTM approach for accurate wave forecasting</a>" has been published in <i><a href="https://www.sciencedirect.com/journal/measurement">Measurement</a></i></li>
   
 </ul>
 
