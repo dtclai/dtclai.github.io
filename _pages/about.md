@@ -46,7 +46,7 @@ Daphne Teck Ching Lai (Member, IEEE)is a Senior Assistant Professor and a Progra
 Education
 ======
 * PhD in Computer Science, University of Nottingham, 2014
-* MSc in Distributed Systems and Networks, University of Science and Technology of China, 2006
+* MSc in Distributed Systems and Networks, University of Kent Canterbury, 2006
 * BSc in Computer Science, University of Strathclyde, 2004
 
 
