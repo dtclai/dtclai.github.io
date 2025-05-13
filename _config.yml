@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Daphne Teck Ching Lai's Homepage"
+title                    : "DTC Lai's Homepage"
 title_separator          : "-"
 name                     : &name "Daphne Teck Ching Lai"
 description              : &description "Data Clustering and Data Science Researcher"
