@@ -29,24 +29,24 @@ author:
   location         : "Brunei Darussalam"
   employer         : "Universiti Brunei Darussalam"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "daphne.lai@ubd.edu.bn" 
 
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.co.uk/citations?hl=en&user=8ig0H_cAAAAJ"
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "http://orcid.org/0000-0001-8290-8941"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
-  scopus           : # URL
+  pubmed           : "https://pubmed.ncbi.nlm.nih.gov/?term=daphne+teck+ching+lai"
+  researchgate     : "https://www.researchgate.net/profile/Daphne-Teck-Ching-Lai"
+  scopus           : "https://www.scopus.com/authid/detail.uri?authorId=57199649884"
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "daphne-lai"
+  github           : "dtclai"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
