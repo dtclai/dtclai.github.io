@@ -25,7 +25,7 @@ News
 <br /> 
 <li><b>[next item]</b>: s paper "<a href="xxx">item</a>" has been published in <i><a href="item">item</a></i> 2023</li>
 <br /> 
-<li><b>[3 April 2025, Paper Published]</b>: Oluwakemisola Onifade's paper Impact of Seasonal Variation and Population Growth on Coliform Bacteria Concentrations in the Brunei River: A Temporal Analysis with Future Projection"<a href="https://www.mdpi.com/2073-4441/17/7/1069">item</a>" has been published in <i><a href="https://www.mdpi.com/journal/water">Water</a></i></li>
+<li><b>[3 April 2025, Paper Published]</b>: Oluwakemisola Onifade's paper "<a href="https://www.mdpi.com/2073-4441/17/7/1069">Impact of Seasonal Variation and Population Growth on Coliform Bacteria Concentrations in the Brunei River: A Temporal Analysis with Future Projection</a>" has been published in <i><a href="https://www.mdpi.com/journal/water">Water</a></i></li>
   
 </ul>
 
