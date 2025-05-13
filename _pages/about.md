@@ -22,8 +22,8 @@ News
 
 <ul>
 <!-- <li><span style="color: #FF0000"><b>[Call for papers]</b></span>: We are organising <a href="https://meiyi1986.github.io/cec2023-esco/">The Special Session on Evolutionary Scheduling and Combinatorial Optimisation</a> at <a href="https://2023.ieee-cec.org/">IEEE Congress on Evolutionary Computation 2023</a>. Submission due date: <span style="color: #FF0000"><b>13 Jan, 2023</b></span>.</li> -->
-<li><span style="color: #FF0000"><b>[item]</b></span>: item.</li>
-<li><span style="color: #FF0000"><b>[next item]</b></span>: <a href="item">item</a>'s paper "<a href="xxx">item</a>" won the GP track Best Paper Award of the <i><a href="item">item</a></i> 2023</li>
+<li><b>[item]</b>: item.</li>
+<li><b>[next item]</b></span>: <a href="item">item</a>'s paper "<a href="xxx">item</a>" published <i><a href="item">item</a></i> 2023</li>
   
 </ul>
 
