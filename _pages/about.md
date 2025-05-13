@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-Senior Assistant Professor < br / >
-Programme Leader ([Data Science](https://sds.ubd.edu.bn/data-science/)) < br / >
-School of Digital Science ([SDS](https://sds.ubd.edu.bn/)) < br / >
+Senior Assistant Professor <br />
+Programme Leader ([Data Science](https://sds.ubd.edu.bn/data-science/)) <br />
+School of Digital Science ([SDS](https://sds.ubd.edu.bn/)) <br />
 Universiti Brunei Darussalam
 
 
