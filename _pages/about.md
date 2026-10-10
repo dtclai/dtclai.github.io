@@ -13,10 +13,6 @@ School of Digital Science ([SDS](https://sds.ubd.edu.bn/)) <br />
 Universiti Brunei Darussalam
 
 
-Evolutionary Scheduling and Combinatorial Optimisation ([ESCO](https://homepages.ecs.vuw.ac.nz/~yimei/ieee-tf-esco/))
-
-
-
 News
 ======
 
