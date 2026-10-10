@@ -91,7 +91,7 @@ author_profile: true
   <li><b>Mohammad Norhamidullah Bin Zakaria</b> (Universiti Brunei Darussalam, 2018): <i>Construction and Evaluation of Homemade Smartphone Spectrophotometer in Studying Beer's Law (Collaboration with Dr Jose Santos of Chemistry Dept)</i></li>
   <br />
   <li><b>Foo Yeun Ming</b> (Universiti Brunei Darussalam, 2019): <i>Identifying profiles of groups of obese individuals(Collaboration with MOH Clinician)</i></li>
-</br>
+  <br />
   <li><b>Emmeline Binti Gimbar</b> (Universiti Brunei Darussalam, 2019): <i>Website for UBD Botanical Research Center</i></li>
   <br />
   <li><b>May Cho Xin Yin </b> (Universiti Brunei Darussalam, 2019): <i>Detecting Depression in Social Media using Machine Learning</i></li>
