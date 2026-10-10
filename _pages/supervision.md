@@ -55,7 +55,7 @@ author_profile: true
   <br />
 <li><b>Muhammad Amirul Raziq Rosman</b> (Universiti Brunei Darussalam, 2026): <i>Self-Supervised Human Activity Recognition With Body Segmentation and B-Spline Approximation (Co-supervision with Dr Ong Wee Hong and Dr Owais Malik)</i></li>
   <br />
-<li><b>Wallace Chin</b> (Universiti Teknologi Brunei, 2026): <i>Enhanced Paddy Disease Detection with Fine-Grained Image Classification</i></li>
+<li><b>Wallace Chin</b> (Universiti Teknologi Brunei, 2026): <i>Enhanced Paddy Disease Detection with Fine-Grained Image Classification (Co-supervision with Dr Wida Suhaili (UTB))</i></li>
   <br />
 <!--<li><li><b>xxx</b> (Universiti Brunei Darussalam, 2024): <i>"title"</i></li>
   <br />
