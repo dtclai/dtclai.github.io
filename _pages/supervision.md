@@ -37,21 +37,21 @@ author_profile: true
 ## Masters
 
 <ol>
-<li><b>Usman Khalil</b> (Universiti Brunei Darussalam, 2019): <i>Profiling Obese Subgroups in National Health and Nutritional Status Survey Data using Machine Learning Techniques – A Case Study from Brunei Darussalam</i></li>
+<li><b>Usman Khalil</b> (Universiti Brunei Darussalam, 2019): <i>Profiling Obese Subgroups in National Health and Nutritional Status Survey Data using Machine Learning Techniques – A Case Study from Brunei Darussalam (Co-supervision with Dr Owais Malik)</i></li>
   </br>
   <li><b>Afiqah Basheer</b> (Universiti Brunei Darussalam, 2022): <i>A Comparative Study of Multi-Objective Functions in MOEA/D and Their Effects on Fuzzy Clustering</i></li>
   </br>
-   <li><b>Wan Mohammad Faris Zaini</b> (Universiti Brunei Darussalam, 2024): <i>A systematic approach to identifying technological trends related to chitin and chitosan using three-window analytics</i></li>
+   <li><b>Wan Mohammad Faris Zaini</b> (Universiti Brunei Darussalam, 2024): <i>A systematic approach to identifying technological trends related to chitin and chitosan using three-window analytics (Co-supervision with Dr Lim Ren Chong (CAMES))</i></li>
   </br>
-   <li><b>Wafi Shamdi</b> (Universiti Brunei Darussalam, 2024): <i>Artificial Intelligence Development In Islamic Governance: A Conceptual Analysis</i></li>
+   <li><b>Wafi Shamdi</b> (Universiti Brunei Darussalam, 2024): <i>Artificial Intelligence Development In Islamic Governance: A Conceptual Analysis Co-supervision with Dr Anshari Ali (IPS)</i></li>
   </br>
-   <li><b>Nur ‘Izzah Amal Afiqah  Binti Hamdani</b> (Universiti Brunei Darussalam, 2024): <i>Using remote sensing to map and explain the distribution pattern of A.mangium along a new highway in Brunei Darussalam</i></li>
+   <li><b>Nur ‘Izzah Amal Afiqah  Binti Hamdani</b> (Universiti Brunei Darussalam, 2024): <i>Using remote sensing to map and explain the distribution pattern of A.mangium along a new highway in Brunei Darussalam (Co-supervision with Prof Ferry Slik (FOS))</i></li>
   </br>
-   <li><b>Christopher Ijok</b> (Universiti Brunei Darussalam, 2026): <i>Investigating Image Pre-Processing Techniques for Identifying Acute Ischemic Stroke</i></li>
+   <li><b>Christopher Ijok</b> (Universiti Brunei Darussalam, 2026): <i>Investigating Image Pre-Processing Techniques for Identifying Acute Ischemic Stroke (Co-supervision with Dr Rosyzie Apong)</i></li>
   </br>
-<li><b>Fatoumatta Conteh</b> (Universiti Brunei Darussalam, 2026): <i>Securing QR Code-Based Digital Payment Methods Using Visual Cryptography and Reversible S-Box Lossless Compression</i></li>
+<li><b>Fatoumatta Conteh</b> (Universiti Brunei Darussalam, 2026): <i>Securing QR Code-Based Digital Payment Methods Using Visual Cryptography and Reversible S-Box Lossless Compression (Co-supervision with Dr Imam Abu Bakar and Dr Rosyzie Apong)</i></li>
   </br>
-<li><b>Muhammad Amirul Raziq Rosman</b> (Universiti Brunei Darussalam, 2026): <i>Self-Supervised Human Activity Recognition With Body Segmentation and B-Spline Approximation</i></li>
+<li><b>Muhammad Amirul Raziq Rosman</b> (Universiti Brunei Darussalam, 2026): <i>Self-Supervised Human Activity Recognition With Body Segmentation and B-Spline Approximation (Co-supervision with Dr Ong Wee Hong and Dr Owais Malik)</i></li>
   </br>
 <li><b>Wallace Chin</b> (Universiti Teknologi Brunei, 2026): <i>Enhanced Paddy Disease Detection with Fine-Grained Image Classification</i></li>
   </br>
