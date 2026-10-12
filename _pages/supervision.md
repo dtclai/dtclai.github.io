@@ -124,17 +124,17 @@ author_profile: true
   <br />
   <li><b>Mohammad Aqil Akmal Bin Ahmad</b> (Universiti Brunei Darussalam, 2025): <i>Hyperledger-Fabric-based Healthcare Pharmaceutical Management System (Co-supervision with Dr Imam Abubakar)</i></li>
   <br />
-  <!--
-<li><b>xxx</b> (Universiti Brunei Darussalam, 2026): <i>"title"</i></li>
+  <li><b>Lee Yong Peng</b> (Universiti Brunei Darussalam, 2026): <i>Acacia Detection and Geolocation</i></li>
   <br />
-  <li><b>xxx</b> (Universiti Brunei Darussalam, 2026): <i>"title"</i></li>
+  <li><b>Husin Nasrullah Aiman bin Mohamad Azami </b> (Universiti Brunei Darussalam, 2026): <i>Development of Machine Learning Model for Above Ground Biomass Estimation</i></li>
   <br />
-  <li><b>xxx</b> (Universiti Brunei Darussalam, 2026): <i>"title"</i></li>
+  <li><b>Muizzul Izaan Bin Edie Jupry </b> (Universiti Brunei Darussalam, 2026): <i>Grading Information System Predictive Analytics</i></li>
   <br />
-<li><b>xxx</b> (Universiti Brunei Darussalam, 2026): <i>"title"</i></li>
+<li><b>Gerard Ang Xiang-ern</b> (Universiti Brunei Darussalam, 2026): <i>Chronic Kidney Disease Classification using Unsupervised Machine Learning</i></li>
   <br />
-  <li><b>xxx</b> (Universiti Brunei Darussalam, 2026): <i>"title"</i></li>
+  <li><b>Awg Mohd Aiman Syafie @Abdul Razzaq Bin Hj Hassan </b> (Universiti Brunei Darussalam, 2026): <i>Predicting Patients' Renal Replacement Therapy Initiation Within 5 Years</i></li>
   <br />
+    <!--
   <li><b>xxx</b> (Universiti Brunei Darussalam, 2027): <i>"title"</i></li>
   <br />
 <li><b>xxx</b> (Universiti Brunei Darussalam, 2027): <i>"title"</i></li>
