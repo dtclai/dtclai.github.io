@@ -19,7 +19,7 @@ News
 <ul>
 <!-- <li><span style="color: #FF0000"><b>[Call for papers]</b></span>: We are organising <a href="https://meiyi1986.github.io/cec2023-esco/">The Special Session on Evolutionary Scheduling and Combinatorial Optimisation</a> at <a href="https://2023.ieee-cec.org/">IEEE Congress on Evolutionary Computation 2023</a>. Submission due date: <span style="color: #FF0000"><b>13 Jan, 2023</b></span>.</li> -->
 
-<li><b>[3 August 2026, Paper Accepted in ICPR]</b>: Raziq Rosman's paper "<a href="https://link.springer.com/chapter/10.1007/978-3-032-31920-3_4">Paired Uniform Cubic B-Splines Are Strong Approximations to Represent Skeleton Activity</a>" has been published in <i><a href="https://link.springer.com/book/10.1007/978-3-032-31920-3">LNCS</a></i></li>
+<li><b>[3 August 2026, Paper Accepted in <a href="https://dl.acm.org/doi/10.1007/978-3-032-31920-3_4">ICPR</a>]</b>: Raziq Rosman's paper "<a href="https://link.springer.com/chapter/10.1007/978-3-032-31920-3_4">Paired Uniform Cubic B-Splines Are Strong Approximations to Represent Skeleton Activity</a>" has been published in <i><a href="https://link.springer.com/book/10.1007/978-3-032-31920-3">LNCS</a></i></li>
 <br /> 
 
 <li><b>[3 April 2025, Paper Published]</b>: Oluwakemisola Onifade's paper "<a href="https://www.mdpi.com/2073-4441/17/7/1069">Impact of Seasonal Variation and Population Growth on Coliform Bacteria Concentrations in the Brunei River: A Temporal Analysis with Future Projection</a>" has been published in <i><a href="https://www.mdpi.com/journal/water">Water</a></i></li>
