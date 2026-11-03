@@ -71,8 +71,8 @@ Work experience (CV in working progress)
      6. Faculty Exchange Coordinator (Jul'16 - Jul'17)
      7. Faculty GenNext Coordinator, Combined Major Coordinator (Aug'17 - Mar'18)
      8. Faculty Research Committee (Oct'17 - Jun 2021)
-     9.  Career guide (Nov'17 - now)
-     10. Subj Editor Scientia Bruneiana (Aug'18 - Jun 2021)
+     9.  Career guide (Nov'17 - 24)
+     10. <a href="https://scibru.fos.ubd.edu.bn/index.php/scibru/about/editorialTeam">Subject Editor Scientia Bruneiana</a> (Aug'18 - Jun 2021)
   
 Skills
 ======
