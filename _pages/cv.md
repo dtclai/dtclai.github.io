@@ -39,10 +39,10 @@ Work experience (CV in working progress)
     5. PhD Qualifying Assessment Examiner (6)
 
   * Admin:
-    1) Industry Liaison and Accreditation Member (1 Jul 2021 - July 2023)
-    2) Writer & Editor in SDS Postgraduate and Faculty newsletters. (Oct'21 - now)
-    3) Discovery Year Coordinator (Jul'16-17, Jul'23 -24 )
-    4) Programme Leader for Data Science Programme (Jul'23 - now)
+    1. Industry Liaison and Accreditation Member (1 Jul 2021 - July 2023)
+    2. Writer & Editor in SDS Postgraduate and Faculty newsletters. (Oct'21 - now)
+    3. Discovery Year Coordinator (Jul'16-17, Jul'23 -24)
+    4. Programme Leader for Data Science Programme (Jul'23 - now)
 
    
   * Research:
