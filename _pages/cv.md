@@ -26,11 +26,48 @@ Work experience (CV in working progress)
   * GitHub University
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
+<br/>
+* Lecturer in Computer Science (May 2014 - Aug 2018 · 4 yrs 4 mos)
+  * Universiti Brunei Darussalam
+  * Duties included: Research, Teaching, Administration, Supervision & Examination
+  * Research (Data Analysis, Data Mining, Artificial Intelligence):
+   * 1. Collaboration with NCD, MOH on Brunei Darussalam Cancer Registry (Aug'14 - present)
+          * Editorial Team in Brunei Darussalam Cancer Registry Report 2002-2013
+   * 2. Collaboration with MOH on Cardiac Rehabilitation Programme (Jun'14 - Jan'18)
+   * 3. Heuristics and Clustering, PI in URG  [BND 9,231] (Mar'15-now)
+   * 4. Reviewer for Fuzzy Sets and Systems, IJCVR, ACIIDS
+   * 5. ASEAN-IVO (NICT) Steering Committee (Mar'16 -Jul'18)
+   * 6. CIIS Conference 2016, 2018 International Technical Committee
+   * 7. Member in 3 research grants; a) Enhanced microscale Chemistry lab with ICT(2018-now), b) Identifying  driving behaviour patterns (2018-now), c) Image classification (2018-now)
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+  * Teaching: 
+   * 1. Computer Networks (Aug'14 - May'16)
+   * 2. Artificial Intelligence (Jan'15 - May '16)
+   * 3. Discovering Computers (Aug'14 - Dec'15)
+   * 4. Programming Fundamentals I (Aug'16 - Aug'21)
+   * 5. Programming Fundamentals II (Jan'17 - Jan'21)
+   * 6. Intro to Computer Systems and IT (Aug'17) 
+   * 7. Data Mining (Jan'18 - Dec'22)
+   * 8. Lifelong Learning PF1 (Aug'17 - Aug'21)
+
+  * Supervision & Examination (Jun 2014 - Aug 2018):
+   * 1. BSc Final Year Project (9)
+   * 2. MSc by Research (2)
+   * 3. PhD (2)
+   * 4. MSc/PhD Internal Examiner (1/2)
+   * 5. PhD Qualifying Assessment Examiner (1)
+
+  * Administrative duties@ Faculty of Science:
+   * 1. Faculty a)Graduate Studies Committees, b) CS MC Monitoring Team (Aug'14 - Jul'16)
+   * 2. CS DY Advisor (Aug'15 - Aug'15)
+   * 3. CS Deputy Programme Leader (Aug'15 - Jul'16)
+   * 4. Act. Programme Leader for Maths and CS (Jan'16 - Jul'16)
+   * 5. Brunei ICT Industry Competency Framework Working Committee (Apr'15 - Apr'16)
+   * 6. Faculty Exchange Coordinator (Jul'16 - Jul'17)
+   * 7. Faculty GenNext Coordinator, Combined Major Coordinator (Aug'17 - Mar'18)
+   * 8. Faculty Research Committee (Oct'17 - Jun 2021)
+   * 9.  Career guide (Nov'17 - now)
+   * 10. Subj Editor Scientia Bruneiana (Aug'18 - Jun 2021)
   
 Skills
 ======
