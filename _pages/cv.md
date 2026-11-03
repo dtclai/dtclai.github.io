@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "CV - web page in working progress"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,11 +11,11 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Computer Science, University of Nottingham, 2014 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Computer Science, University of Nottingham, 2014 
+* M.S. in Distributed Systems and Networking, University of Kent, Canterbury, 2006
+* B.S. in Computer Science, Strathclyde University, 2004
 
-Work experience
+Work experience (CV in working progress)
 ======
 * Spring 2024: Academic Pages Collaborator
   * GitHub University
