@@ -17,15 +17,63 @@ Education
 
 Work experience (CV in working progress)
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* <b>Senior Assistant Professor in Computer Science </b> (Aug 2019 - Present · 7 yrs 4 mos)
+  * School of Digital Science, Universiti Brunei Darussalam
+  * Duties includes: Research, Teaching, Administration, Supervision & Examination, Consultancy
+  * Modules currently taught:
+    1. Data Analytics Lab (Aug22-present)
+    2. Advanced Applied Data Analytics I & II(Jan24-present)
+    3. Introduction to Data Analytics (Jan24-present)
+    4. Programming Fundamentals I & II (Aug16-Aug21)
+    5. Data Mining (Jan17-Dec22)
+    6. Lifelong Learning Programming Fundamentals I (Aug17-Jun21)
+    7. Artificial Intelligence (2007-2010, Aug21-Dec21)
+    8. Applied Data Analytics I & II (Aug22-Dec25)
+    9. Data Engineering (Aug23-Dec24) 
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+  * Supervision & Examination (Jun 2014-present):
+    1. BSc Final Year Project (15)
+    2. MSc by Research (2 | 4 completed)
+    3. PhD (7 | 6 completed)
+    4. MSc/PhD Internal Examiner (4/5)
+    5. PhD Qualifying Assessment Examiner (6)
+
+  * Admin:
+    1) Industry Liaison and Accreditation Member (1 Jul 2021 - July 2023)
+    2) Writer & Editor in SDS Postgraduate and Faculty newsletters. (Oct'21 - now)
+    3) Discovery Year Coordinator (Jul'16-17, Jul'23 -24 )
+    4) Programme Leader for Data Science Programme (Jul'23 - now)
+
+   
+  * Research:
+    * PI and co-PI in Data Analysis and Artificial Intelligence Research Grants:
+      5 Analysis and Modelling of Water Quality Data Of Brunei River, PI, B$29K, 2022-5
+      4 Digital Detection of Acacia Mangium Trees via Remote Sensing for Controlling the Invasive Population of Biodiversity Threats: Case Study in Brunei, Co-PI, £49K Funded by British Council under UK-ASEAN ILECR, Birmingham City U, UK, 2022-3
+      3 Non-Invasive ECG for Computerized QT-corrected (QTc) Assessment with A Risk of Torsade de Pointes based-on Deep Learning Algorithm, Co-PI, B$14K, 2020-3
+      2 Application of Multi-Objective Evolutionary Computation in Human Activity Discovery, PI, B$54K, 2020-3 
+      1 Exploring Metaheuristic in a Semi-Supervised Fuzzy C-means Clustering Framework Applied on Biomedical Data, PI, B$9K, 2015-9
+
+    * Collaborator in projects/networks:
+      -The Asia Cohort Consortium, 2023-now
+      -Global Burden of Disease, 2022-now
+      -Wave and Tide Prediction for Brunei Deep-Water Operation, B$65K,  2022-now
+      -Spatial-Temporal Mapping Of Forest Change Detection In Brunei Using Deep Learning Techniques And Satellite Images, B$56K, 2022 – now
+      -Non-communicable disease analysis in public health data, MOH Brunei, 2014-now
+      -Geological ML analysis; Source Rock Characterisation, Water Quality; Rock Catalyst Detection, 2018–
+      -Hybrid Fuzzy-crisp clustering algorithm, 2020–2022
+      -Identifying technological landscapes from patents in Hydrothermal Biomass Processing, 2020-23
+      -Emergence of hierarchical structures underlying patent classification codes, B$26K, 2020-22
+      -Institute of Applied Data Analytics, UBD, 2018-23
+      -Modeling driving patterns using simulation and sensor data for enhancing traffic safety, B$18K, 2018-2024 
+      -Evolutionary Computation, Hosei U, Japan, 2018-23
+      -Water Quality Assessment in Layong, 2018-20
+      -Total Organic Carbon Prediction, 2017-20
+      -Semi-supervised Hierarchical Clustering, Loughborough U, UK, 2015-19
+
+  * Faculty Journal Subject Editor/ Reviewer
+    - Invite journal submission to Faculty of Science journal, Scientia Bruneiana and invite reviewers to review Computer Science papers. 
+    - Reviewer of IJEPES, IEEE Access, CITISIA, ACIIS (previously CIIS), PeerJ, CEC, IJCNN, FUZZ-IEEE, Fuzzy Sets & Systems, SoftwareX, Sensors, IEEE Symposium Series On Computational Intelligence, Pattern Recognition, Expert Systems and Applications, etc
+   
 
 <br/>
 
