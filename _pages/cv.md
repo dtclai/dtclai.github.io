@@ -29,7 +29,7 @@ Work experience (CV in working progress)
 
 <br/>
 
-* Lecturer in Computer Science (May 2014 - Aug 2018 · 4 yrs 4 mos)
+* <b>Lecturer in Computer Science </b> (May 2014 - Aug 2018 · 4 yrs 4 mos)
   * Faculty of Science, Universiti Brunei Darussalam
   * Duties included: Research, Teaching, Administration, Supervision & Examination
   * Research (Data Analysis, Data Mining, Artificial Intelligence):
@@ -73,6 +73,35 @@ Work experience (CV in working progress)
      8. Faculty Research Committee (Oct'17 - Jun 2021)
      9.  Career guide (Nov'17 - 24)
      10. <a href="https://scibru.fos.ubd.edu.bn/index.php/scibru/about/editorialTeam">Subject Editor Scientia Bruneiana</a> (Aug'18 - Jun 2021)
+   
+<br/>
+   
+* <b>Lecturer in Computer Science </b> (Nov 2006 - Sep 2010 · 3 yrs 11 mos)
+  * Faculty of Science, Universiti Brunei Darussalam
+  * Duties included: Teaching, Administration
+  * Courses taught (incl. practicals):
+    1. Artificial Intelligence (2007-2010)
+    2. Intro to Computer Systems and IT (2009) 
+    3. Computer Networks (2007, 2008)
+
+  * Project Supervision:
+    1. Second Year Project (2007-2010,  4 students)
+    2. Final Year Project (2007-2010, 4 students)
+
+  * Lab demonstration:
+      1. Introduction to Object-oriented programming (2009)
+
+  * Competitions:
+    1. Finalist in Think Big – Brunei ICT Business Plan Competition (Brunei, 2009) 
+    2. Team advisor in Brunei ICT Awards Competition (Brunei, 2008) 
+    3. Judge for Robotech Competition (Science, Technology and Environment Partnership Centre, Brunei, 2007) 
+    4. Judge for Tech Challenge (Oil and Gas Discovery Centre, Brunei, 2007) 
+
+  * Services & Consultancy
+    1. PHP 5 for Ministry of Development staff (16 – 18 and 23 – 26 March 2009) 
+    2. FLOSS for local and CLMV (Cambodia-Laos-Myanmar-Vietnam) teachers and system administrators under the Initiative for ASEAN Integration Programme (3 - 5 March 2009) 
+    3. Cascading Style Sheets for Ministry of Development staff (24 - 25 February 2009) 
+    4. Trainer in Linux Software Development  (FLOSS training) for Teachers and Ministry of Development staff (June 2007 and March 2008)
   
 Skills
 ======
