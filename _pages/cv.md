@@ -47,11 +47,11 @@ Work experience (CV in working progress)
    
   * Research:
     * PI and co-PI in Data Analysis and Artificial Intelligence Research Grants:
-      5. Analysis and Modelling of Water Quality Data Of Brunei River, PI, B$29K, 2022-5
-      4. Digital Detection of Acacia Mangium Trees via Remote Sensing for Controlling the Invasive Population of Biodiversity Threats: Case Study in Brunei, Co-PI, £49K Funded by British Council under UK-ASEAN ILECR, Birmingham City U, UK, 2022-3
+      1. Analysis and Modelling of Water Quality Data Of Brunei River, PI, B$29K, 2022-5
+      2. Digital Detection of Acacia Mangium Trees via Remote Sensing for Controlling the Invasive Population of Biodiversity Threats: Case Study in Brunei, Co-PI, £49K Funded by British Council under UK-ASEAN ILECR, Birmingham City U, UK, 2022-3
       3. Non-Invasive ECG for Computerized QT-corrected (QTc) Assessment with A Risk of Torsade de Pointes based-on Deep Learning Algorithm, Co-PI, B$14K, 2020-3
-      2. Application of Multi-Objective Evolutionary Computation in Human Activity Discovery, PI, B$54K, 2020-3 
-      1. Exploring Metaheuristic in a Semi-Supervised Fuzzy C-means Clustering Framework Applied on Biomedical Data, PI, B$9K, 2015-9
+      4. Application of Multi-Objective Evolutionary Computation in Human Activity Discovery, PI, B$54K, 2020-3 
+      5. Exploring Metaheuristic in a Semi-Supervised Fuzzy C-means Clustering Framework Applied on Biomedical Data, PI, B$9K, 2015-9
 
     * Collaborator in projects/networks:
       - The Asia Cohort Consortium, 2023-now
