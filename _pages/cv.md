@@ -26,7 +26,9 @@ Work experience (CV in working progress)
   * GitHub University
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
+
 <br/>
+
 * Lecturer in Computer Science (May 2014 - Aug 2018 · 4 yrs 4 mos)
   * Universiti Brunei Darussalam
   * Duties included: Research, Teaching, Administration, Supervision & Examination
