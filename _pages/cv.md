@@ -48,27 +48,29 @@ Work experience (CV in working progress)
   * Research:
     * PI and co-PI in Data Analysis and Artificial Intelligence Research Grants:
       1. Analysis and Modelling of Water Quality Data Of Brunei River, PI, B$29K, 2022-5
-      2. Digital Detection of Acacia Mangium Trees via Remote Sensing for Controlling the Invasive Population of Biodiversity Threats: Case Study in Brunei, Co-PI, £49,993.00 Funded by British Council under UK-ASEAN ILECR, Birmingham City U, UK, and UBD matched fund (£10,000)[FOS/RSCH/MG/2022] 2022-3
-      3. Non-Invasive ECG for Computerized QT-corrected (QTc) Assessment with A Risk of Torsade de Pointes based-on Deep Learning Algorithm, Co-PI, B$14K, 2020-3
-      4. Application of Multi-Objective Evolutionary Computation in Human Activity Discovery, PI, B$54K, 2020-3 
-      5. Exploring Metaheuristic in a Semi-Supervised Fuzzy C-means Clustering Framework Applied on Biomedical Data, PI, B$9K, 2015-9
+      2. Spatial-Temporal Mapping Of Forest Change Detection In Brunei Using Deep Learning Techniques And Satellite Images, B$56K, 2022 – now
+      3. Digital Detection of Acacia Mangium Trees via Remote Sensing for Controlling the Invasive Population of Biodiversity Threats: Case Study in Brunei, Co-PI, £49,993.00 Funded by British Council under UK-ASEAN ILECR, Birmingham City U, UK, and UBD matched fund (£10,000)[FOS/RSCH/MG/2022] 2022-3
+      4. Non-Invasive ECG for Computerized QT-corrected (QTc) Assessment with A Risk of Torsade de Pointes based-on Deep Learning Algorithm, Co-PI, B$14K, 2020-3
+      5. Application of Multi-Objective Evolutionary Computation in Human Activity Discovery, PI, B$54K, 2020-3 
+      6. Exploring Metaheuristic in a Semi-Supervised Fuzzy C-means Clustering Framework Applied on Biomedical Data, PI, B$9K, 2015-9
 
     * Collaborator in projects/networks:
-      - The Asia Cohort Consortium, 2023-now
-      - Global Burden of Disease, 2022-now
-      - Wave and Tide Prediction for Brunei Deep-Water Operation, B$65K,  2022-now
-      - Spatial-Temporal Mapping Of Forest Change Detection In Brunei Using Deep Learning Techniques And Satellite Images, B$56K, 2022 – now
-      - Non-communicable disease analysis in public health data, MOH Brunei, 2014-now
-      - Geological ML analysis; Source Rock Characterisation, Water Quality; Rock Catalyst Detection, 2018–
-      - Hybrid Fuzzy-crisp clustering algorithm, 2020–2022
-      - Identifying technological landscapes from patents in Hydrothermal Biomass Processing, 2020-23
-      - Emergence of hierarchical structures underlying patent classification codes, B$26K, 2020-22
-      - Institute of Applied Data Analytics, UBD, 2018-23
-      - Modeling driving patterns using simulation and sensor data for enhancing traffic safety, B$18K, 2018-2024 
-      - Evolutionary Computation, Hosei U, Japan, 2018-23
-      - Water Quality Assessment in Layong, 2018-20
-      - Total Organic Carbon Prediction, 2017-20
-      - Semi-supervised Hierarchical Clustering, Loughborough U, UK, 2015-19
+      
+      Project/Network                                                |Collaborators  |  Funding   |   Period
+      ----------                                                     |----------     |----------  |----------
+      The Asia Cohort Consortium                                     | Asia          |none        | 2023 - now
+      Non‑Communicable Disease Risk Factor Collaboration (NCD-RisC)  | Global        |none        | 2024 - now
+      Global Burden of Disease                                       | Global        |none        | 2022 - now 
+      Wave and Tide Prediction for Brunei Deep-Water Operation       | UBD           | B$65K      | 2022 - now
+      Non-communicable disease analysis in public health data        | MOH Brunei    | none       | 2014 - now
+      Geological ML analysis; Source Rock Characterisation, Total Organic Carbon Prediction, Water Quality in Layong; Rock Catalyst Detection | UBD | none    | 2017– now
+      Hybrid Fuzzy-crisp clustering algorithm | UBD | none |  2020–2022
+      Identifying technological landscapes from patents in Hydrothermal Biomass Processing | UBD  | None |  2020-23
+      Emergence of hierarchical structures underlying patent classification codes| UBD |  B$26K |  2020-22
+      Institute of Applied Data Analytics |  UBD |  |  2018-23
+      Modeling driving patterns using simulation and sensor data for enhancing traffic safety|  UBD |  B$18K |  2018-2024 
+      Evolutionary Computation |  Hosei U, Japan | Hosei International Fund International Scholars Fellowship | 2018-23
+      Semi-supervised Hierarchical Clustering | Loughborough U, UK | none  |  2015-19
 
   * Faculty Journal Subject Editor/ Reviewer
     - Invite journal submission to Faculty of Science journal, Scientia Bruneiana and invite reviewers to review Computer Science papers. 
