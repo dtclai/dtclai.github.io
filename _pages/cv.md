@@ -33,8 +33,8 @@ Work experience (CV in working progress)
 
   * Supervision & Examination (Jun 2014-present):
     1. BSc Final Year Project (15)
-    2. MSc by Research (2 | 4 completed)
-    3. PhD (7 | 6 completed)
+    2. MSc by Research (2 current, 4 completed)
+    3. PhD (7 current, 6 completed)
     4. MSc/PhD Internal Examiner (4/5)
     5. PhD Qualifying Assessment Examiner (6)
 
